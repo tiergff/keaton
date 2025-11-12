@@ -12,7 +12,7 @@ title: "影像区"
 
 所有资源都在这里了，自取吧！
 
-链接：https://pan.baidu.com/s/1AMMkjcDAvwi_jixTmTpogg 
+链接： https://pan.baidu.com/s/1AMMkjcDAvwi_jixTmTpogg
 
 提取码：tote
 
