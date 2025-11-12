@@ -1,0 +1,34 @@
+---
+title: "阿巴克尔时期"
+weight: 1
+sidebar:
+  open: true
+---
+
+👋 你好！欢迎来到阿巴克尔时期！
+
+左侧是不同分类的图片（暂时按电影来做分类），点击不同电影分类查看图片。
+
+缓慢更新，图片搜集于网络，所有图片均可下载。
+
+<!--more-->
+
+## 其他分区
+
+{{< cards >}}
+ {{< card link="/pics/film/fatty/" title="阿巴克尔时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/pics/film/short/" title="独立短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/pics/film/long/" title="独立长片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/pics/film/mgm/" title="米高梅时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/pics/film/educational/" title="教育短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/pics/film/columbia/" title="哥伦比亚时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/pics/film/other/" title="其他时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+{{< /cards >}}
+
+
+## 有问题或反馈？
+
+{{< callout emoji="❓" >}}
+  基顿库图片站 仍在积极开发中。
+  有问题或反馈？请随时[提出问题](https://bbs.keaton.cool)！
+{{< /callout >}}
