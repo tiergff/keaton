@@ -18,9 +18,9 @@ title: "图片区"
 ## 快速进入
 
 {{< cards >}}
- {{< card link="/pics/film/" title="🎬 剧照" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/color/" title="🖼️ 彩色修复" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/smile/" title="😄 彩蛋" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/" title="🎬 剧照" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/color/" title="🖼️ 彩色修复" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/smile/" title="😄 彩蛋" icon="external-link" image="" subtitle="" method="Resize" >}}
 {{< /cards >}}
 
 
