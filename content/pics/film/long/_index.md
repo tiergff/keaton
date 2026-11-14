@@ -33,26 +33,26 @@ sidebar:
 ## 快速进入
 
 {{< cards >}}
-  {{< card link="/pics/film/long/ourhospitality/" title="待客之道（1923）" image="/../keaton/pictures/ourhospitality/000.jpg" subtitle="Our Hospitality" method="Resize" >}}
-  {{< card link="/pics/film/long/thenavigator/" title="航海家（1924）" image="/../keaton/pictures/thenavigator/00.jpg" subtitle="The Navigator" method="Resize" >}}
-  {{< card link="/pics/film/long/gowest/" title="西行（1925）" image="/../keaton/pictures/GoWest/19.jpg" subtitle="Go West" method="Resize" >}}
-  {{< card link="/pics/film/long/battlingbutler/" title="战将巴特勒（1926）" image="/../keaton/pictures/BattlingButler/0.jpg" subtitle="Battling Butler" method="Resize" >}}
-  {{< card link="/pics/film/long/general/" title="将军号（1926）" image="/../keaton/pictures/general/37.jpg" subtitle="The General" method="Resize" >}}
-  {{< card link="/pics/film/long/college/" title="大学（1927）" image="/../keaton/pictures/College/13.jpg" subtitle="College" method="Resize" >}}
-  {{< card link="/pics/film/long/steamboatbilljr/" title="船长二世（1928）" image="/../keaton/pictures/steamboatbilljr/00.jpg" subtitle="Steamboat Bill Jr." method="Resize" >}}
+  {{< card link="/keaton/pics/film/long/ourhospitality/" title="待客之道（1923）" image="/../keaton/pictures/ourhospitality/000.jpg" subtitle="Our Hospitality" method="Resize" >}}
+  {{< card link="/keaton/pics/film/long/thenavigator/" title="航海家（1924）" image="/../keaton/pictures/thenavigator/00.jpg" subtitle="The Navigator" method="Resize" >}}
+  {{< card link="/keaton/pics/film/long/gowest/" title="西行（1925）" image="/../keaton/pictures/GoWest/19.jpg" subtitle="Go West" method="Resize" >}}
+  {{< card link="/keaton/pics/film/long/battlingbutler/" title="战将巴特勒（1926）" image="/../keaton/pictures/BattlingButler/0.jpg" subtitle="Battling Butler" method="Resize" >}}
+  {{< card link="/keaton/pics/film/long/general/" title="将军号（1926）" image="/../keaton/pictures/general/37.jpg" subtitle="The General" method="Resize" >}}
+  {{< card link="/keaton/pics/film/long/college/" title="大学（1927）" image="/../keaton/pictures/College/13.jpg" subtitle="College" method="Resize" >}}
+  {{< card link="/keaton/pics/film/long/steamboatbilljr/" title="船长二世（1928）" image="/../keaton/pictures/steamboatbilljr/00.jpg" subtitle="Steamboat Bill Jr." method="Resize" >}}
 {{< /cards >}}
 
 
 ## 其他分区
 
 {{< cards >}}
- {{< card link="/pics/film/fatty/" title="阿巴克尔时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/short/" title="独立短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/long/" title="独立长片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/mgm/" title="米高梅时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/educational/" title="教育短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/columbia/" title="哥伦比亚时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/other/" title="其他时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/keaton/pics/film/fatty/" title="阿巴克尔时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/keaton/pics/film/short/" title="独立短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/keaton/pics/film/long/" title="独立长片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/keaton/pics/film/mgm/" title="米高梅时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/keaton/pics/film/educational/" title="教育短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/keaton/pics/film/columbia/" title="哥伦比亚时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/keaton/pics/film/other/" title="其他时期" icon="external-link" image="" subtitle="" method="Resize" >}}
 {{< /cards >}}
 
 
