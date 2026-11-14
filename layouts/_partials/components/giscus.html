@@ -1,7 +1,7 @@
 {{- $lang := site.Language.Lang | default `en` -}}
 {{- if hasPrefix $lang "zh" -}}
   {{- /* See: https://github.com/giscus/giscus/tree/main/locales */}}
-  {{- $lang = site.Language.LanguageCode | default `zh-CN` -}}
+  {{- $lang = partial "utils/hugo-compat/language-locale.html" site.Language | default `zh-CN` -}}
 {{- end -}}
 
 {{- with site.Params.comments.giscus -}}
@@ -71,10 +71,14 @@
     // Listen for system theme changes
     window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", setGiscusTheme);
 
-    // Update giscus theme when theme switcher is clicked
-    const themeToggleOptions = document.querySelectorAll(".hextra-theme-toggle-options p");
+    // Update giscus theme when theme switcher is clicked.
+    const themeToggleOptions = document.querySelectorAll(".hextra-theme-toggle-options [data-item]");
     if (themeToggleOptions) {
-      themeToggleOptions.forEach(toggle => toggle.addEventListener('click', setGiscusTheme));
+      themeToggleOptions.forEach(toggle => {
+        toggle.addEventListener('click', () => {
+          setTimeout(setGiscusTheme, 0);
+        });
+      });
     }
   });
 </script>

@@ -1,5 +1,6 @@
 ---
 title: 巴斯特基顿库
+toc: false
 layout: hextra-home
 ---
 
@@ -34,7 +35,6 @@ layout: hextra-home
 
 <br><br>
 
-<img src="https://buster.keaton.cool/files/pictures/general/31.jpg" width="800">
+<img src="../images/pictures/general/31.jpg" width="800">
 
 <br><br>
-

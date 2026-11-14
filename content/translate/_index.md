@@ -25,6 +25,5 @@ title: "翻译区"
 ## 有问题或反馈？
 
 {{< callout emoji="✏" >}}
- 基顿库 仍在积极开发中。
- 有问题或反馈？请随时[提出问题](https://bbs.keaton.cool)！
+ 基顿库 大概不建设了……
 {{< /callout >}}

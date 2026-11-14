@@ -11,7 +11,7 @@
   - base (local path) only (no css):
     - Link directly to "{{ base }}/katex[.min].css" (no processing).
   - Nothing set:
-    - Default to CDN latest base; same as remote path above.
+    - Default to a KaTeX release line compatible with Hugo; same as remote path above.
 
   Additional:
   - assets: optional list to publish extra assets. CSS/JS get tags with integrity (JS loads async).
@@ -23,7 +23,18 @@
   {{- $katexBase = . -}}
 {{- else -}}
   {{- if not site.Params.math.katex.css -}}
-    {{- $katexBase = "https://cdn.jsdelivr.net/npm/katex@latest/dist" -}}
+    {{- /* KaTeX 0.18 introduces breaking CSS class changes, so the stylesheet
+      release line must match Hugo's embedded KaTeX renderer: 0.16 before Hugo
+      0.166.0, and 0.18 starting with Hugo 0.166.0 (which embeds 0.18.4).
+      The "-DEV" threshold also matches source-built 0.166.0 snapshots, which
+      Hugo's version comparison sorts below the 0.166.0 release.
+      See https://github.com/gohugoio/hugo/pull/15259.
+    */ -}}
+    {{- $katexVersion := "0.16" -}}
+    {{- if ge hugo.Version "0.166.0-DEV" -}}
+      {{- $katexVersion = "0.18" -}}
+    {{- end -}}
+    {{- $katexBase = printf "https://cdn.jsdelivr.net/npm/katex@%s/dist" $katexVersion -}}
   {{- end -}}
 {{- end -}}
 
@@ -39,7 +50,7 @@
 {{- $minSuffix := cond hugo.IsProduction ".min" "" -}}
 {{- if $isRemoteBase -}}
   {{- $cssPath := cond (ne $katexCssAsset "") $katexCssAsset (printf "katex%s.css" $minSuffix) -}}
-  {{- $katexCssUrl := printf "%s/%s" $katexBase $cssPath -}}
+  {{- $katexCssUrl := urls.JoinPath $katexBase $cssPath -}}
   {{- with try (resources.GetRemote $katexCssUrl) -}}
     {{- with .Err -}}
       {{- errorf "Could not retrieve KaTeX css file from %s. Reason: %s." $katexCssUrl . -}}
@@ -59,7 +70,7 @@
   {{- $cssContent := . -}}
   {{- if $isRemoteBase -}}
     {{- $fontPattern := "url(fonts/" -}}
-    {{- $fontSub := printf "url(%s/fonts/" $katexBase -}}
+    {{- $fontSub := printf "url(%s/" (urls.JoinPath $katexBase "fonts") -}}
     {{- $cssContent = strings.Replace $cssContent $fontPattern $fontSub -}}
   {{- end -}}
   {{- with resources.FromString (printf "css/katex%s.css" $minSuffix) $cssContent -}}
@@ -69,7 +80,7 @@
 {{- else -}}
   {{- if not $isRemoteBase -}}
     {{- $cssPath := cond (ne $katexCssAsset "") $katexCssAsset (printf "katex%s.css" $minSuffix) -}}
-    <link rel="stylesheet" href="{{ printf "%s/%s" $katexBase $cssPath }}" />
+    <link rel="stylesheet" href="{{ urls.JoinPath $katexBase $cssPath }}" />
   {{- end -}}
 {{- end -}}
 

@@ -16,8 +16,8 @@ sidebar:
 ## 快速进入
 
 {{< cards >}}
-  {{< card link="/pics/film/mgm/cameraman/" title="摄影师（1928）" image="https://buster.keaton.cool/files/pictures/cameraman/9.jpg" subtitle="The Cameraman" method="Resize" >}}
-  {{< card link="/pics/film/mgm/doughboys/" title="Doughboys（1930）" image="https://buster.keaton.cool/files/pictures/doughboys/0.jpg" subtitle="Doughboys" method="Resize" >}}
+  {{< card link="/pics/film/mgm/cameraman/" title="摄影师（1928）" image="/../images/pictures/cameraman/9.jpg" subtitle="The Cameraman" method="Resize" >}}
+  {{< card link="/pics/film/mgm/doughboys/" title="Doughboys（1930）" image="/../images/pictures/doughboys/0.jpg" subtitle="Doughboys" method="Resize" >}}
 {{< /cards >}}
 
 ## 其他分区

@@ -1,91 +1,60 @@
 # Hugo configuration file
-title: "巴斯特基顿库"
-
-enableRobotsTXT: true
-enableGitInfo: false
-enableEmoji: true
-hasCJKLanguage: false
-
+title: 巴斯特基顿库
 
 # import hextra as module
 # module:
 #   imports:
 #     - path: github.com/imfing/hextra
 
-outputs:
-  home: [HTML]
-  page: [HTML]
-  section: [HTML, RSS]
+enableRobotsTXT: true
+enableGitInfo: false
+enableEmoji: true
 
-defaultContentLanguage: en
-languages:
-  en:
-    languageName: English
-    languageCode: en
-    weight: 1
-    title: 巴斯特基顿库
-
-module:
-  hugoVersion:
-    extended: true
-    min: "0.134.0"
+defaultContentLanguage: zh
 
 markup:
-  highlight:
-    noClasses: false
+  # allow raw html
   goldmark:
     renderer:
       unsafe: true
-    extensions:
-      passthrough:
-        delimiters:
-          block: [['\[', '\]'], ['$$', '$$']]
-          inline: [['\(', '\)']]
-        enable: true
 
-enableInlineShortcodes: true
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
 
 menu:
   main:
-    - identifier: films
-      name: 影像区
+    - name: 影像区
       pageRef: /films
       weight: 1
-    - identifier: pics
-      name: 图片区
+    - name: 图片区
       pageRef: /pics
       weight: 2
-    - identifier: books
-      name: 书籍区
+    - name: 书籍区
       pageRef: /books
       weight: 3
-    - identifier: albums
-      name: 专辑区
+    - name: 专辑区
       pageRef: /albums
       weight: 4
-    - identifier: translate
-      name: 翻译区
+    - name: 翻译区
       pageRef: /translate
       weight: 5
-    - identifier: docs
-      name: 文档区
+    - name: 文档区
       pageRef: /document
       weight: 6
-    - identifier: blog
-      name: 博客
+    - name: 博客
       pageRef: /blog
       weight: 7
-    - identifier: about
-      name: 关于
+    - name: 关于
       pageRef: /about
       weight: 8
     - name: Search
-      weight: 10
+      weight: 9
       params:
         type: search
 
-params:
 
+params:
   navbar:
     displayTitle: true
     displayLogo: true
@@ -95,36 +64,10 @@ params:
       width: 35
       height: 35
       # link: /
-    width: wide
-
-  page:
-    # full (100%), wide (90rem), normal (1280px)
-    width: wide
-
-  theme:
-    # light | dark | system
-    default: system
-    displayToggle: true
 
   footer:
-    enable: true
     displayCopyright: false
     displayPoweredBy: false
-    width: wide
-    
-  displayUpdatedDate: true
-  dateFormat: "2006年1月2日"
-
-  search:
-    enable: true
-    type: flexsearch
-  
-  flexsearch:
-      # index page by: content | summary | heading | title
-      index: content
-      # full | forward | reverse | strict
-      # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
-      tokenize: reverse
 
   editURL:
     enable: false
@@ -136,9 +79,3 @@ params:
       # date | lastmod | publishDate | title | weight
       sortBy: date
       sortOrder: desc # or "asc"
-
-  highlight:
-    copy:
-      enable: true
-      # hover | always
-      display: hover

@@ -16,7 +16,7 @@ sidebar:
 ## 快速进入
 
 {{< cards >}}
-  {{< card link="/pics/film/other/leroidechampelysees/" title="香榭丽舍之王（1934）" image="https://buster.keaton.cool/files/pictures/LeRoideChampElysees/6.jpg" subtitle="Le Roi des Champs-Élysées" method="Resize" >}}
+  {{< card link="/pics/film/other/leroidechampelysees/" title="香榭丽舍之王（1934）" image="/../images/pictures/LeRoideChampElysees/6.jpg" subtitle="Le Roi des Champs-Élysées" method="Resize" >}}
 {{< /cards >}}
 
 ## 其他分区
