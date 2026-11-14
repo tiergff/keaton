@@ -35,6 +35,6 @@ layout: hextra-home
 
 <br><br>
 
-<img src="/../images/pictures/general/31.jpg" width="800">
+<img src="/../keaton/images/pictures/general/31.jpg" width="800">
 
 <br><br>
