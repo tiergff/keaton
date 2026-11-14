@@ -8,11 +8,11 @@ weight: 54
 
 {{< cards >}}
 
-  {{< card link="" title="" image="/../images/pictures/LeRoideChampElysees/0.jpg" subtitle="" method="Resize" >}}
-  {{< card link="" title="" image="/../images/pictures/LeRoideChampElysees/2.jpg" subtitle="" method="Resize" >}}
-  {{< card link="" title="" image="/../images/pictures/LeRoideChampElysees/3.jpg" subtitle="" method="Resize" >}}
-  {{< card link="" title="" image="/../images/pictures/LeRoideChampElysees/4.jpg" subtitle="" method="Resize" >}}
-  {{< card link="" title="" image="/../images/pictures/LeRoideChampElysees/5.jpg" subtitle="" method="Resize" >}}
-  {{< card link="" title="" image="/../images/pictures/LeRoideChampElysees/6.jpg" subtitle="" method="Resize" >}}
+  {{< card link="" title="" image="/../keaton/pictures/LeRoideChampElysees/0.jpg" subtitle="" method="Resize" >}}
+  {{< card link="" title="" image="/../keaton/pictures/LeRoideChampElysees/2.jpg" subtitle="" method="Resize" >}}
+  {{< card link="" title="" image="/../keaton/pictures/LeRoideChampElysees/3.jpg" subtitle="" method="Resize" >}}
+  {{< card link="" title="" image="/../keaton/pictures/LeRoideChampElysees/4.jpg" subtitle="" method="Resize" >}}
+  {{< card link="" title="" image="/../keaton/pictures/LeRoideChampElysees/5.jpg" subtitle="" method="Resize" >}}
+  {{< card link="" title="" image="/../keaton/pictures/LeRoideChampElysees/6.jpg" subtitle="" method="Resize" >}}
 
 {{< /cards >}}

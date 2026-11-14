@@ -33,33 +33,32 @@ sidebar:
 ## 快速进入
 
 {{< cards >}}
-  {{< card link="/pics/film/long/ourhospitality/" title="待客之道（1923）" image="/../images/pictures/ourhospitality/000.jpg" subtitle="Our Hospitality" method="Resize" >}}
-  {{< card link="/pics/film/long/thenavigator/" title="航海家（1924）" image="/../images/pictures/thenavigator/00.jpg" subtitle="The Navigator" method="Resize" >}}
-  {{< card link="/pics/film/long/gowest/" title="西行（1925）" image="/../images/pictures/GoWest/19.jpg" subtitle="Go West" method="Resize" >}}
-  {{< card link="/pics/film/long/battlingbutler/" title="战将巴特勒（1926）" image="/../images/pictures/BattlingButler/0.jpg" subtitle="Battling Butler" method="Resize" >}}
-  {{< card link="/pics/film/long/general/" title="将军号（1926）" image="/../images/pictures/general/37.jpg" subtitle="The General" method="Resize" >}}
-  {{< card link="/pics/film/long/college/" title="大学（1927）" image="/../images/pictures/College/13.jpg" subtitle="College" method="Resize" >}}
-  {{< card link="/pics/film/long/steamboatbilljr/" title="船长二世（1928）" image="/../images/pictures/steamboatbilljr/00.jpg" subtitle="Steamboat Bill Jr." method="Resize" >}}
+  {{< card link="../pics/film/long/ourhospitality/" title="待客之道（1923）" image="/../images/pictures/ourhospitality/000.jpg" subtitle="Our Hospitality" method="Resize" >}}
+  {{< card link="../pics/film/long/thenavigator/" title="航海家（1924）" image="/../images/pictures/thenavigator/00.jpg" subtitle="The Navigator" method="Resize" >}}
+  {{< card link="../pics/film/long/gowest/" title="西行（1925）" image="/../images/pictures/GoWest/19.jpg" subtitle="Go West" method="Resize" >}}
+  {{< card link="../pics/film/long/battlingbutler/" title="战将巴特勒（1926）" image="/../images/pictures/BattlingButler/0.jpg" subtitle="Battling Butler" method="Resize" >}}
+  {{< card link="../pics/film/long/general/" title="将军号（1926）" image="/../images/pictures/general/37.jpg" subtitle="The General" method="Resize" >}}
+  {{< card link="../pics/film/long/college/" title="大学（1927）" image="/../images/pictures/College/13.jpg" subtitle="College" method="Resize" >}}
+  {{< card link="../pics/film/long/steamboatbilljr/" title="船长二世（1928）" image="/../images/pictures/steamboatbilljr/00.jpg" subtitle="Steamboat Bill Jr." method="Resize" >}}
 {{< /cards >}}
 
 
 ## 其他分区
 
 {{< cards >}}
- {{< card link="/pics/film/fatty/" title="阿巴克尔时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/short/" title="独立短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/long/" title="独立长片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/mgm/" title="米高梅时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/educational/" title="教育短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/columbia/" title="哥伦比亚时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/other/" title="其他时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/fatty/" title="阿巴克尔时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/short/" title="独立短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/long/" title="独立长片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/mgm/" title="米高梅时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/educational/" title="教育短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/columbia/" title="哥伦比亚时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/other/" title="其他时期" icon="external-link" image="" subtitle="" method="Resize" >}}
 {{< /cards >}}
 
 
 
 ## 有问题或反馈？
 
-{{< callout emoji="❓" >}}
-  基顿库图片站 仍在积极开发中。
-  有问题或反馈？请随时[提出问题](https://bbs.keaton.cool)！
+{{< callout emoji="✏" >}}
+ 基顿库 大概不建设了……
 {{< /callout >}}

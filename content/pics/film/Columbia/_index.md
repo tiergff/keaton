@@ -16,18 +16,17 @@ sidebar:
 ## 其他分区
 
 {{< cards >}}
- {{< card link="/pics/film/fatty/" title="阿巴克尔时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/short/" title="独立短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/long/" title="独立长片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/mgm/" title="米高梅时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/educational/" title="教育短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/columbia/" title="哥伦比亚时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="/pics/film/other/" title="其他时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/fatty/" title="阿巴克尔时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/short/" title="独立短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/long/" title="独立长片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/mgm/" title="米高梅时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/educational/" title="教育短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/columbia/" title="哥伦比亚时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="../pics/film/other/" title="其他时期" icon="external-link" image="" subtitle="" method="Resize" >}}
 {{< /cards >}}
 
 ## 有问题或反馈？
 
-{{< callout emoji="❓" >}}
-  基顿库图片站 仍在积极开发中。
-  有问题或反馈？请随时[提出问题](https://bbs.keaton.cool)！
+{{< callout emoji="✏" >}}
+ 基顿库 大概不建设了……
 {{< /callout >}}

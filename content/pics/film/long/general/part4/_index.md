@@ -8,9 +8,9 @@ weight: 400
 
 {{< cards >}}
 
-{{< card link="" title="" image="/../images/pictures/general/53.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/general/54.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/general/56.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/general/53.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/general/54.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/general/56.jpg" subtitle="" method="Resize" >}}
 
 
 {{< /cards >}}

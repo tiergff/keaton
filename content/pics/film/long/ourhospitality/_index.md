@@ -8,28 +8,28 @@ weight: 35
 
 {{< cards >}}
 
-{{< card link="" title="" image="/../images/pictures/ourhospitality/000.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/001.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/002.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/003.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/004.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/005.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/006.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/007.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/008.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/009.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/010.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/011.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/012.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/013.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/014.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/015.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/016.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/017.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/018.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/019.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/020.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/021.jpg" subtitle="" method="Resize" >}}
-{{< card link="" title="" image="/../images/pictures/ourhospitality/022.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/000.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/001.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/002.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/003.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/004.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/005.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/006.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/007.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/008.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/009.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/010.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/011.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/012.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/013.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/014.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/015.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/016.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/017.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/018.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/019.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/020.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/021.jpg" subtitle="" method="Resize" >}}
+{{< card link="" title="" image="/../keaton/pictures/ourhospitality/022.jpg" subtitle="" method="Resize" >}}
 
 {{< /cards >}}
