@@ -16,19 +16,19 @@ sidebar:
 ## 快速进入
 
 {{< cards >}}
-  {{< card link="../pics/film/other/leroidechampelysees/" title="香榭丽舍之王（1934）" image="/../keaton/pictures/LeRoideChampElysees/6.jpg" subtitle="Le Roi des Champs-Élysées" method="Resize" >}}
+  {{< card link="/pics/film/other/leroidechampelysees/" title="香榭丽舍之王（1934）" image="/../keaton/pictures/LeRoideChampElysees/6.jpg" subtitle="Le Roi des Champs-Élysées" method="Resize" >}}
 {{< /cards >}}
 
 ## 其他分区
 
 {{< cards >}}
- {{< card link="../pics/film/fatty/" title="阿巴克尔时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="../pics/film/short/" title="独立短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="../pics/film/long/" title="独立长片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="../pics/film/mgm/" title="米高梅时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="../pics/film/educational/" title="教育短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="../pics/film/columbia/" title="哥伦比亚时期" icon="external-link" image="" subtitle="" method="Resize" >}}
- {{< card link="../pics/film/other/" title="其他时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/pics/film/fatty/" title="阿巴克尔时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/pics/film/short/" title="独立短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/pics/film/long/" title="独立长片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/pics/film/mgm/" title="米高梅时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/pics/film/educational/" title="教育短片时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/pics/film/columbia/" title="哥伦比亚时期" icon="external-link" image="" subtitle="" method="Resize" >}}
+ {{< card link="/pics/film/other/" title="其他时期" icon="external-link" image="" subtitle="" method="Resize" >}}
 {{< /cards >}}
 
 
